@@ -7,3 +7,5 @@
 - Layout prioritizes trust-building and clarity for first-time visitors
 
 Vercel assignment deployment link : https://vercel.com/swapnalis-projects-146d9945/grow-my-therapy-assignment
+
+Video Walkthrough Link : https://www.loom.com/share/2025c02e6ad341cea2aa91459bfd4f1e
